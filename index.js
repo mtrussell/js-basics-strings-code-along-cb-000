@@ -1,6 +1,5 @@
 // Write your code in this file!
 
-let currentUser;
+let currentUser = "Matt";
 
-const welcomeMessage = "Welcome to Flatbook";
-
+const welcomeMessage = "Welcome to Flatbook!";
