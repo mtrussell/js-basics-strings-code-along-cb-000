@@ -4,4 +4,4 @@ let currentUser = "Matt";
 
 let welcomeMessage = "Welcome to Flatbook, " + currentUser + "!";
 
-let excitedWelcomeMessage = 
+let excitedWelcomeMessage = ""
